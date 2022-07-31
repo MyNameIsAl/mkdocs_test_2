@@ -1,4 +1,4 @@
-This site contains the project documentation for the
+This site contains the updated project documentation for the
 `calculator` project that is a toy module used in the
 Real Python tutorial
 [Build Your Python Project Documentation With MkDocs](
